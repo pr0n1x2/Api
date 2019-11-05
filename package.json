@@ -19,7 +19,7 @@
     "http-errors": "^1.7.1",
     "is-hexcolor": "^1.0.0",
     "jsonwebtoken": "^8.5.0",
-    "mongoose": "^5.3.13",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "nconf": "^0.10.0",
     "passport": "^0.4.0",
