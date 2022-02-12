@@ -10,7 +10,7 @@
   "author": "@TrustyWork",
   "license": "ISC",
   "dependencies": {
-    "ajv": "^6.9.2",
+    "ajv": "^6.12.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "file-stream-rotator": "^0.4.1",
