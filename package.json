@@ -18,7 +18,7 @@
     "helmet": "^3.16.0",
     "http-errors": "^1.7.1",
     "is-hexcolor": "^1.0.0",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.3.13",
     "morgan": "^1.9.1",
     "nconf": "^0.10.0",
